@@ -1,0 +1,29 @@
+{
+  "name": "lean-chart",
+  "version": "0.0.1",
+  "description": "lean-ui's chart library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lean-ui/lean-chart.git"
+  },
+  "keywords": [
+    "library",
+    "chart",
+    "lean-ui"
+  ],
+  "author": "Zhicheng Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asnowwolf/lean-chart/issues"
+  },
+  "homepage": "https://github.com/asnowwolf/lean-chart#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "tslint": "^3.7.1"
+  }
+}
